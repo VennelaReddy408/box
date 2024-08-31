@@ -1,0 +1,132 @@
+header{
+    background-color:chocolate;
+    color:white;
+    padding:20px;
+    height: 10px;
+    border:2px solid black;
+    font-size:large;
+    margin:2px 2px 2px 25px;
+    text-align: center;
+    text-decoration: underline;
+    
+    width:90%;
+    right:20px;
+    left:30px;
+}
+
+
+.container1{
+    position:absolute;
+    background-color:white;
+    height:50%;
+    width:20%;
+    top:65px;
+    border:5px solid gainsboro;
+    margin: 30px 30px;
+    box-sizing: 5px;
+    box-shadow: 2px;
+    padding:20px;
+    left:15%;
+    right:10%;
+}
+.content1{
+    border:2px soild black;
+    padding:20px;
+    text-align: center;
+}
+.container2{
+    position:absolute;
+    background-color: white;
+    height: 50%;
+    width:20%;
+    border:5px solid gainsboro;
+    margin: 30px 30px;
+    box-sizing: 5px;
+    box-shadow: 2px;
+    top:65px;
+    padding:20px;
+    left:38.5%;
+    right:30%;
+}
+.content2{
+    border:2px soild black;
+    padding:20px;
+    text-align: center;
+
+}
+.container3{
+    position:absolute;
+    background-color: white;
+    height: 50%;
+    width:20%;
+    border:5px solid gainsboro;
+    margin: 30px 30px;
+    box-sizing: 5px;
+    box-shadow: 2px;
+    top:65px;
+    padding:20px;
+    left:62%;
+    right:25%;
+}
+.content3{
+    border:2px soild black;
+    padding:20px;
+    text-align: center;
+
+}
+.container4{
+    position:absolute;
+    background-color: white;
+    height: 25%;
+    width:20%;
+    border:5px solid gainsboro;
+    margin: 15px 15px;
+    box-sizing: 5px;
+    box-shadow: 2px;
+    top:500px;
+    padding:20px;
+    right:58.75%;
+    
+}
+.container5{
+    position:absolute;
+    background-color: white;
+    height: 25%;
+    width:20%;
+    border:5px solid gainsboro;
+    margin: 15px 15px;
+    box-sizing: 5px;
+    box-shadow: 2px;
+    top:500px;
+    padding:20px;
+    right:55%;
+    left:39.5%;
+}
+.container6{
+    position:absolute;
+    background-color: white;
+    height: 25%;
+    width:20%;
+    border:5px solid gainsboro;
+    margin: 15px 15px;
+    box-sizing: 5px;
+    box-shadow: 2px;
+    top:500px;
+    padding:20px;
+    right:30%;
+    left:63%;
+}
+.contents{
+    position:absolute;
+    background-color: chocolate;
+    color:white;
+    top:750px;
+    height:30px;
+    width:100%;
+    padding:20px;
+    text-align:center;
+    border:2px solid brown;
+    
+    
+
+}  
